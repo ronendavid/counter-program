@@ -32,7 +32,7 @@ body {
 
 #counterLabel {
     text-align: center;
-    font-size: 8rem;
+    font-size: 7rem;
     width: 100%;
     background-color: #fff;
     border: 1px solid #000;
@@ -48,7 +48,7 @@ body {
 
 .btn {
     display: block;
-    font-size: 2rem;
+    font-size: 1.5rem;
     padding: 10px 20px;
     background-color: #336CF1;
     border-radius: 8px;
